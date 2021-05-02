@@ -1,0 +1,33 @@
+.main-image {
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  height: 400px;
+  margin-bottom: 50px;
+  background-position: bottom;
+}
+
+.main-text {
+  padding: 20px;
+  font-size: 20px;
+  color: gray;
+}
+.messages {
+  width: 840px;
+  padding-bottom: 20px;
+  margin: auto;
+}
+
+.message {
+  border-bottom: 1px solid gray;
+  margin: 30px auto;
+  padding-bottom: 30px;
+}
+
+.message p {
+  margin: 0;
+  color: gray;
+}
+
+a {
+  color: gray;
+}
